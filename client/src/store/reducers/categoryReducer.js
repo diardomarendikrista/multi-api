@@ -10,7 +10,7 @@ const initialState = {
       id: 2,
       name: 'batik',
       image: 'https://i.pinimg.com/originals/7e/f6/6f/7ef66f3d4fa49d628969762a73df6cd9.png',
-      url: 'http://batikita.herokuapp.com/index.php/batik/all'
+      url: 'https://batikita.herokuapp.com/index.php/batik/all'
     },
     {
       id: 3,
